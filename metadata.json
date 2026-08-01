@@ -1,0 +1,6 @@
+{
+  "name": "Looks Herbal Beauty Parlour & Makeup Studio",
+  "description": "Premium herbal beauty treatments & makeup artistry. Where beauty meets care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
